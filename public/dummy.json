@@ -1,0 +1,33 @@
+{
+"dummy": [{
+  "id": "M",
+  "frequency": 69
+}, {
+  "id": "M",
+  "frequency": 40
+}, {
+  "id": "F",
+  "frequency": 5
+}, {
+  "id": "F",
+  "frequency": 1
+}, {
+  "id": "M",
+  "frequency": 33
+}, {
+  "id": "F",
+  "frequency": 93
+}, {
+  "id": "F",
+  "frequency": 68
+}, {
+  "id": "M",
+  "frequency": 2
+}, {
+  "id": "M",
+  "frequency": 54
+}, {
+  "id": "F",
+  "frequency": 40
+}]
+}
